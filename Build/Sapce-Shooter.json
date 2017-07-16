@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Sapce-Shooter.data.unityweb",
+"asmCodeUrl": "Sapce-Shooter.asm.code.unityweb",
+"asmMemoryUrl": "Sapce-Shooter.asm.memory.unityweb",
+"asmFrameworkUrl": "Sapce-Shooter.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
